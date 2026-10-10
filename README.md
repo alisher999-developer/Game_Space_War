@@ -13,4 +13,4 @@
 
 <img src="picture_4.jpeg" alt="Game Space War">
 
-<img src="picture_4.jpeg" alt="Game Space War">
+<img src="picture_5.jpeg" alt="Game Space War">
