@@ -1,4 +1,4 @@
-# 303 Game Space Wars (Version 4) in Python
+# Game Space War
 
 import pygame, controls
 from gun import Gun
