@@ -1,4 +1,6 @@
 # Game Space War
-![Game Space War](picture_1.jpeg)
+<p align="center">
+  <img src="picture_1.jpeg" alt="My Image" width="300">
+</p>
 ![Game Space War](picture_2.jpeg)
 ![Game Space War](picture_3.jpeg)
